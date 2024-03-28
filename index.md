@@ -3,8 +3,6 @@ layout: soon
 permalink: /
 ---
 
-# Coming soon
+# High Impact Weather Data
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
-Some call to action.
-
+Coming soon, a data centric weather service focused on providing unique, custom tailored data for exceptional applications
